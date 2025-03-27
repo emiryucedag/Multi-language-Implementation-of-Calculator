@@ -1,5 +1,10 @@
-Interpreter Calculator - Multi-language Implementation
+# Hazırlayan:
+Emir Yücedağ 221101077
+
 =================================================
+
+Interpreter Calculator - Multi-language Implementation
+
 
 This repository contains a simple arithmetic expression calculator implemented in five different programming languages:
 Rust, Ada, Perl, Scheme, and Prolog. Each implementation supports basic arithmetic operations, handles input parsing, and performs error checks.
